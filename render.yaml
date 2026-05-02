@@ -3,3 +3,4 @@ services:
     name: xgboost-land-price-api
     runtime: docker
     dockerfilePath: ./Dockerfile
+    plan: free
